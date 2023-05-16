@@ -3,7 +3,7 @@
 ## ÍNDICE
 
 * [1. Intro](https://github.com/utm21040175/GoogleInterface/blob/main/README.md#1-intro)
-* [2. Qué construí](#)
+* [2. Qué construí](https://github.com/utm21040175/GoogleInterface/blob/main/README.md#2-que-constru%C3%AD)
 * [3. Objetivo del proyecto](#)
 
 ****
